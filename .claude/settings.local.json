@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api *)",
+      "WebFetch(domain:impeccable.style)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(npx tsc *)",
+      "Bash(npm run *)",
+      "Bash(taskkill /PID 25596 /F)",
+      "Bash(npm install *)",
+      "Bash(npx next *)",
+      "Bash(git add *)"
+    ]
+  }
+}
